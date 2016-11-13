@@ -1,3 +1,7 @@
+'''
+Find the largest number that can be formed from the digits that's divisble by 3
+'''
+
 from array import array
 
 def sanitize(l):
